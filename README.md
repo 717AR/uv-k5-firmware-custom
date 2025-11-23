@@ -1,4 +1,7 @@
-# Open re-implementation of the Quansheng UV-K5/K6/5R v2.1.27 firmware
+This is a fork of AubsUK with minor UI differences. It's a work in progress, don't use it. 
+
+Everything below this line is unedited from AubsUK readme.
+-----------------------------------------------------------------------------------------------
 
 This repository is a fork of the [Egzumer](https://github.com/egzumer/uv-k5-firmware-custom) firmware, which itself is merge of [OneOfEleven custom firmware](https://github.com/OneOfEleven/uv-k5-firmware-custom) with [fagci spectrum analizer](https://github.com/fagci/uv-k5-firmware-fagci-mod/tree/refactor), along with my few changes.<br>
 All is a cloned and customized version of DualTachyon's open firmware found [here](https://github.com/DualTachyon/uv-k5-firmware) ... a cool achievement !<br><br>
